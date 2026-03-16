@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "ryo (supercell) / メルト CPK! Remix (初音ミク ver.)",
+  "base_artist": "ryo (supercell)",
+  "createdAt": "2026-03-16T07:48:29.570142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こっち向いて Baby/ryo(supercell) feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/01_こっち向いて_Baby_ryo(supercell)_feat._初音ミク_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こっち向いて Baby - ryo(supercell) feat. 初音ミク",
+      "artist": "VOCALOID",
+      "has_synced": true,
+      "path": "select/02_こっち向いて_Baby_-_ryo(supercell)_feat._初音ミク_VOCALOID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "22 (feat. Ryo Nagano)",
+      "artist": "菅野よう子",
+      "has_synced": true,
+      "path": "select/03_22_(feat._Ryo_Nagano)_菅野よう子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MAYDAY (feat. Ryo)",
+      "artist": "coldrain feat. Ryo",
+      "has_synced": true,
+      "path": "select/04_MAYDAY_(feat._Ryo)_coldrain_feat._Ryo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God of Fire (feat. Ryo Kinoshita)",
+      "artist": "Fit for a King",
+      "has_synced": true,
+      "path": "select/05_God_of_Fire_(feat._Ryo_Kinoshita)_Fit_for_a_King.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holy Roller (feat. Ryo Kinoshita)",
+      "artist": "Spiritbox feat. Ryo Kinoshita",
+      "has_synced": true,
+      "path": "select/06_Holy_Roller_(feat._Ryo_Kinoshita)_Spiritbox_feat._Ryo_Kinoshita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holy Roller (feat. Ryo Kinoshita)",
+      "artist": "Spiritbox",
+      "has_synced": true,
+      "path": "select/07_Holy_Roller_(feat._Ryo_Kinoshita)_Spiritbox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hyper Kill (feat. Ryo Kinoshita)",
+      "artist": "Darko US",
+      "has_synced": true,
+      "path": "select/08_Hyper_Kill_(feat._Ryo_Kinoshita)_Darko_US.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back to Zero (feat. Ryo Kinoshita)",
+      "artist": "Breakdown of Sanity feat. Ryo Kinoshita",
+      "has_synced": true,
+      "path": "select/09_Back_to_Zero_(feat._Ryo_Kinoshita)_Breakdown_of_Sanity_feat._Ryo_Kinoshita.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Sea Starts Here (feat. Ryo Kinoshita)",
+      "artist": "The Dali Thundering Concept feat. Ryo Kinoshita",
+      "has_synced": true,
+      "path": "select/10_The_Sea_Starts_Here_(feat._Ryo_Kinoshita)_The_Dali_Thundering_Concept_feat._Ryo_Kinoshita.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yōkai (feat. Ryo Kinoshita)",
+      "artist": "Within Destruction",
+      "has_synced": false,
+      "path": "select/11_Yōkai_(feat._Ryo_Kinoshita)_Within_Destruction.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MAYDAY (feat. Ryo from Crystal Lake)",
+      "artist": "coldrain feat. Ryo",
+      "has_synced": true,
+      "path": "select/12_MAYDAY_(feat._Ryo_from_Crystal_Lake)_coldrain_feat._Ryo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MAYDAY (feat. Ryo from Crystal Lake)",
+      "artist": "coldrain/Ryo",
+      "has_synced": true,
+      "path": "select/13_MAYDAY_(feat._Ryo_from_Crystal_Lake)_coldrain_Ryo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back to Zero (feat. Ryo Kinoshita)",
+      "artist": "Breakdown of Sanity",
+      "has_synced": true,
+      "path": "select/14_Back_to_Zero_(feat._Ryo_Kinoshita)_Breakdown_of_Sanity.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ronin (feat. Ryo Kinoshita)",
+      "artist": "The Gloom In The Corner",
+      "has_synced": true,
+      "path": "select/15_Ronin_(feat._Ryo_Kinoshita)_The_Gloom_In_The_Corner.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "MAYDAY (feat. Ryo)",
+      "artist": "coldrain",
+      "has_synced": true,
+      "path": "select/16_MAYDAY_(feat._Ryo)_coldrain.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cold Sun (Ryo Nagano Remix) with 永野亮(APOGEE)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/17_Cold_Sun_(Ryo_Nagano_Remix)_with_永野亮(APOGEE)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "Varien feat. Veela",
+      "has_synced": false,
+      "path": "select/18_Supercell_Varien_feat._Veela.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/19_Supercell_Aesop_Rock.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_Supercell_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/21_Supercell_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "King Gizzard",
+      "has_synced": true,
+      "path": "select/22_Supercell_King_Gizzard.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "supercell",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/23_supercell_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "虹色 - Version by ryo from supercell",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/24_虹色_-_Version_by_ryo_from_supercell_livetune_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "虹色 - Version by ryo from supercell",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": false,
+      "path": "select/25_虹色_-_Version_by_ryo_from_supercell_livetune_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "supercell/My Dearest/My Dearest-supercell",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/26_supercell_My_Dearest_My_Dearest-supercell_supercell.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Supercell",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/27_Supercell_Aesop_Rock.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RYOSUN",
+      "artist": "RYOSUN",
+      "has_synced": false,
+      "path": "select/pl_01_RYOSUN_RYOSUN.txt"
+    }
+  ]
+}
